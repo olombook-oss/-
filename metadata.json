@@ -1,0 +1,6 @@
+{
+  "name": "الآلة الحاسبة الشاملة",
+  "description": "تطبيق آلة حاسبة متكامل يضم النمط القياسي، العلمي، رسم الدوار البيانية، محول الوحدات، حاسبة القروض والخصومات، وحلال المسائل بالذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
